@@ -1,4 +1,4 @@
-# LibraryManager
+# Library Manager
 A Java-based library management system using OOP principles.
 
 ## Features
